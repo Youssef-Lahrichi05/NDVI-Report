@@ -27,7 +27,7 @@ This project extracts and analyses the Normalized Difference Vegetation Index (N
 ├── data_extraction.py       # GEE extraction script
 ├── Morocco_NDVI.pbix        # Power BI dashboard file
 ├── report/
-│   └── NDVI_Morocco_Report.tex   # Full analysis report (LaTeX)
+│   └── NDVI_analysis.pdf  # Full analysis report
 └── data/
     └── Morocco_NDVI_Rain_Temp_2010_2024.csv
 ```
